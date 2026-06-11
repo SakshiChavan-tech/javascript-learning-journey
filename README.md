@@ -1,6 +1,6 @@
 # Day 1 - Variables and Conditions
 
-Today I learned:
+Today I learned:-
 
 - Variables in JavaScript
 - Data Types
@@ -8,4 +8,4 @@ Today I learned:
 - If-Else Statements
 
 Program:
-A Student Report System that calculates total marks, average marks, and displays the result.
+A Student Report System that calculates total marks, average marks and displays the result.
